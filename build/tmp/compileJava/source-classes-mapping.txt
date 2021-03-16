@@ -1,0 +1,12 @@
+fju/deu/Customer.java
+ fju.deu.Customer
+fju/deu/GraduateStudent.java
+ fju.deu.GraduateStudent
+fju/deu/Taster.java
+ fju.deu.Taster
+fju/deu/HW.java
+ fju.deu.HW
+fju/deu/Box.java
+ fju.deu.Box
+fju/deu/Buy.java
+ fju.deu.Buy
